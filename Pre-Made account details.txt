@@ -1,0 +1,41 @@
+All pre made accounts
+The structure is as follows:
+- username
+- password
+
+***NB***
+All passwords are hashed to avoid outside parties viewing their passwords
+
+EMPLOYEES:
+
+ewanjames123
+E
+
+haydenj
+Hayden
+
+Rayray555
+RAY
+
+FARMERS:
+
+lorentrerise123
+E
+
+SimonHHH
+Simon
+
+LindyAnakin
+LAJames
+
+JohnSmith
+JohnSmith
+
+CrazyJesse
+CRAZYjesse
+
+ljj123
+Loren123
+
+simonD
+simonD
